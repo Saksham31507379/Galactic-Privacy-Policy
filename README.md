@@ -1,50 +1,41 @@
-## **Flantic's Privacy Policy**
-### By using Flantic you accept with its privacy policy.
+## **Galactic's Privacy Policy**
+### By using Galactic you accept it's Privacy Policy
 
-## 1. What does it store?
+## 1. What data we store?
 
- - Server IDs for servers data(prefixes, settings)
- - User IDs for tempmute, report and feedback.
+ - Server IDs for server settings
+ - User IDs for profile, premium settings
 
-## 2. Who can access the data?
+## 2. Who has access to the data?
 
  #### 1. Following people can access ALL of the data:
- -  Bot developer(s)
+ - Only Bot Developer(s) can access the data.
 
-#### 2. Following people can access tempmute:
-- Server Moderator(s)
 
-#### 3. Following people can access reports:
-- Bot developer(s)
+#### 2. Who can access reports?:
+- Only Bot Developer(s) can access the data.
 
-## 3. How can I get rid of the data stored? 
+## 3. How can I clear all my data 
 
-#### 1. To clear your tempmute do one of the following:
-- Ask server mod(s) to remove your tempmute
+- Join our [support server]() and ping any of our moderators.
 
 
 ## 4. Why do we store the data?
 
-#### 1. It stores server IDs for settings and data because:
-- Without those most of the bot wouldn't be functional.
+#### 1. We store the data because
+- Without storing data the bot will be kinda useless
 
-#### 2. It stores user IDs for reminders, tempmute, suggestion, report and feedback:
-- Bot needs to find the user that has the data stored in the database.
+#### 2. We store data for profile, premium, blacklists, reports:
+- We need to fetch the user from our database
 
-#### 3. It stores server IDs and user IDs for blacklist because:
-- We need to prevent people/servers that abuse the bot, break bot rules.
-
-
-## 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
-
-#### You can reach us by the following things:
-- Join our [Support Server](https://discord.gg/2JrxEPtszD) on discord
-- Contact me on discord [discord.gg/flantic](https://discord.gg/2JrxEPtszD)
-
-## 6. How can we delete our entire data?
-
-### Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
+#### 3. We blacklist users / servers because:
+- We are trying our best to punish users who breaks discord tos / bot's tos
 
 
-## Please note, that we can change this policy without any warning at any given time.
-#### **Last changed:**  `2021 November 9th`
+## 5. Still not satisfied
+
+- Join our [Support Server](https://discord.gg/ynpEtVhjgV) on discord
+
+
+##  We can change this policy without any warning at any given time.
+#### **Last changed:**  `18th September 2022`
